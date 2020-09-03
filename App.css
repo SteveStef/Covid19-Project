@@ -1,0 +1,42 @@
+body {
+  background-color: #101820FF;
+  color: lightgray;
+}
+.App {
+  text-align: right;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+input {
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-right: 5%;
+  margin-left: 0.5%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: monospace;
+  text-align: center;
+  padding: 60px;
+  text-align: center;
+  background: #00539CFF;
+  color: white;
+  font-size: 35px;
+}
+#search {
+  text-align:center;
+
+}
+#loading {
+  position:absolute;
+  top: 40%;
+  left: 50%;
+}
+#img {
+  position:absolute;
+  top: 2.7%;
+  left: 7%;
+}
